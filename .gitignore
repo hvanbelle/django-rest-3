@@ -1,2 +1,3 @@
 /tutorial/.env
 /db.sqlite3
+/tutorial/quickstart/migrations/
